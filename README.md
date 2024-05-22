@@ -45,7 +45,7 @@
  > 
 > 🏆 219 Contributions in the Year 2024
  > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
 > 📜 10 Public Repositories 
  > 
@@ -109,7 +109,7 @@ Java                     1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 22/05/2024 16:33:11 UTC
+ Last Updated on 22/05/2024 16:39:32 UTC
 <!--END_SECTION:waka-->
 
 
