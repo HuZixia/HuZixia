@@ -15,6 +15,10 @@ Hi，您是第 ![Visitor Count](https://profile-counter.glitch.me/HuZixia/count.
 [![HuZixia's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=huzixia)](https://github.com/anuraghazra/github-readme-stats)
 
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 <!--
 **HuZixia/HuZixia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
