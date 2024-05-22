@@ -29,6 +29,8 @@
 
 </div>
 
+<div align="center"><b>Hi，2024 Happy New Year，您是第 <img src="https://profile-counter.glitch.me/HuZixia/count.svg"></img> 位访问者</b></div>
+
 
 [//]: # (*   Github Stats)
 [//]: # (![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=HuZixia\&layout=compact&#41;)
