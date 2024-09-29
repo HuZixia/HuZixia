@@ -43,8 +43,6 @@
 
 > 📦 599.9 kB Used in GitHub's Storage 
  > 
-> 🏆 534 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 12 Public Repositories 
@@ -107,7 +105,7 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 28/09/2024 18:43:29 UTC
+ Last Updated on 29/09/2024 18:43:57 UTC
 <!--END_SECTION:waka-->
 
 
