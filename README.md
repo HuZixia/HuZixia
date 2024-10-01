@@ -43,8 +43,6 @@
 
 > 📦 599.9 kB Used in GitHub's Storage 
  > 
-> 🏆 534 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 12 Public Repositories 
@@ -78,21 +76,16 @@ Sunday                   65 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 2 hrs 36 mins       █████████████████████████   100.00 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 36 mins       █████████████████████████   99.99 % 
-PyCharm                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Lecture                  2 hrs 25 mins       ███████████████████████░░   92.56 % 
-Note                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
-model-note               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
-mzlogin.github.io        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 hrs 36 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -107,7 +100,7 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 30/09/2024 18:46:47 UTC
+ Last Updated on 01/10/2024 18:46:45 UTC
 <!--END_SECTION:waka-->
 
 
