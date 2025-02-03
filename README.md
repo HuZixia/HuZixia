@@ -43,6 +43,8 @@
 
 > 📦 604.4 kB Used in GitHub's Storage 
  > 
+> 🏆 0 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 12 Public Repositories 
@@ -76,20 +78,16 @@ Sunday                   76 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   2 hrs 18 mins       ███████████████████████░░   91.60 % 
-Bash                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
-Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 30 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-deploy_tasks             2 hrs 29 mins       █████████████████████████   98.76 % 
-bairong                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 30 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -104,7 +102,7 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 02/02/2025 18:43:32 UTC
+ Last Updated on 03/02/2025 18:43:15 UTC
 <!--END_SECTION:waka-->
 
 
