@@ -51,50 +51,6 @@
  > 
 > 🔑 8 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                61 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
-🌆 Daytime                130 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-🌃 Evening                483 commits         ████████████░░░░░░░░░░░░░   47.63 % 
-🌙 Night                  340 commits         ████████░░░░░░░░░░░░░░░░░   33.53 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   95 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
-Tuesday                  111 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
-Wednesday                176 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
-Thursday                 180 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
-Friday                   173 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
-Saturday                 182 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
-Sunday                   97 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Python                   42 hrs 28 mins      █████████████████████████   98.27 % 
-Markdown                 22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
-CSV                      21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-
-🔥 Editors: 
-VS Code                  43 hrs 13 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-StockQuant               42 hrs 28 mins      █████████████████████████   98.28 % 
-Result                   33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-MyQuant                  10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-
-💻 Operating System: 
-Windows                  43 hrs 13 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -107,7 +63,7 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 23/07/2026 19:56:42 UTC
+ Last Updated on 24/07/2026 19:57:03 UTC
 <!--END_SECTION:waka-->
 
 
