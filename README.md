@@ -41,7 +41,7 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 667.4 kB Used in GitHub's Storage 
+> 📦 669.3 kB Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2026
  > 
@@ -51,6 +51,50 @@
  > 
 > 🔑 8 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                62 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
+🌆 Daytime                130 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+🌃 Evening                484 commits         ████████████░░░░░░░░░░░░░   47.64 % 
+🌙 Night                  340 commits         ████████░░░░░░░░░░░░░░░░░   33.46 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   95 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+Tuesday                  111 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
+Wednesday                176 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
+Thursday                 180 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
+Friday                   173 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
+Saturday                 184 commits         █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
+Sunday                   97 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Python                   47 hrs 26 mins      █████████████████████████   98.48 % 
+Markdown                 22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+CSV                      20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+
+🔥 Editors: 
+VS Code                  48 hrs 10 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+StockQuant               47 hrs 27 mins      █████████████████████████   98.50 % 
+Result                   32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+MyQuant                  10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+
+💻 Operating System: 
+Windows                  48 hrs 10 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -63,7 +107,7 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 19:57:03 UTC
+ Last Updated on 25/07/2026 19:45:53 UTC
 <!--END_SECTION:waka-->
 
 
