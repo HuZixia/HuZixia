@@ -80,22 +80,22 @@ Sunday                   98 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   31 hrs 33 mins      ████████████████████████░   94.38 % 
-Markdown                 1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
-CSV                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Python                   21 hrs 52 mins      ███████████████████████░░   92.38 % 
+Markdown                 1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  33 hrs 26 mins      █████████████████████████   100.00 % 
+VS Code                  23 hrs 40 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-StockQuant               31 hrs 42 mins      ████████████████████████░   94.84 % 
-MyQuant                  1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
-Result                   20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+StockQuant               21 hrs 53 mins      ███████████████████████░░   92.46 % 
+MyQuant                  1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+Result                   19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
 
 💻 Operating System: 
-Windows                  33 hrs 26 mins      █████████████████████████   100.00 % 
+Windows                  23 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -116,7 +116,7 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 31/07/2026 20:04:45 UTC
+ Last Updated on 01/08/2026 19:45:29 UTC
 <!--END_SECTION:waka-->
 
 
