@@ -39,8 +39,6 @@
 
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-19%20hrs%204%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 673.4 kB Used in GitHub's Storage 
@@ -53,54 +51,6 @@
  > 
 > 🔑 8 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                63 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
-🌆 Daytime                132 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
-🌃 Evening                489 commits         ████████████░░░░░░░░░░░░░   47.71 % 
-🌙 Night                  341 commits         ████████░░░░░░░░░░░░░░░░░   33.27 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   98 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
-Tuesday                  115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
-Wednesday                177 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
-Thursday                 180 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
-Friday                   173 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
-Saturday                 184 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
-Sunday                   98 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Python                   33 mins             █████████████████░░░░░░░░   69.63 % 
-Markdown                 14 mins             ████████░░░░░░░░░░░░░░░░░   30.37 % 
-
-🔥 Editors: 
-VS Code                  48 mins             █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-StockQuant               33 mins             █████████████████░░░░░░░░   69.63 % 
-MyQuant                  12 mins             ███████░░░░░░░░░░░░░░░░░░   26.67 % 
-Result                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
-
-💻 Operating System: 
-Windows                  48 mins             █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -113,7 +63,7 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 05/08/2026 20:10:40 UTC
+ Last Updated on 07/08/2026 00:25:43 UTC
 <!--END_SECTION:waka-->
 
 
