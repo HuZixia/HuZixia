@@ -80,18 +80,20 @@ Sunday                   99 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 4 mins              ███████████████████████░░   93.55 % 
-Python                   0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Python                   46 mins             ███████████████████████░░   93.54 % 
+Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 🔥 Editors: 
-VS Code                  5 mins              █████████████████████████   100.00 % 
+VS Code                  49 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Result                   4 mins              ███████████████████████░░   93.55 % 
-StockQuant               0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+PDF                      32 mins             ████████████████░░░░░░░░░   65.57 % 
+StockQuant               14 mins             ███████░░░░░░░░░░░░░░░░░░   28.56 % 
+Result                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
 
 💻 Operating System: 
-Windows                  5 mins              █████████████████████████   100.00 % 
+Windows                  49 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -112,7 +114,7 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 09/08/2026 19:12:30 UTC
+ Last Updated on 10/08/2026 19:33:41 UTC
 <!--END_SECTION:waka-->
 
 
