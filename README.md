@@ -39,7 +39,7 @@
 
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-19%20hrs%204%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-19%20hrs%2013%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -80,26 +80,43 @@ Sunday                   99 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   5 hrs 19 mins       ████████████████████████░   97.40 % 
-Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
-CSV                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+Python                   5 hrs 20 mins       ████████████████████████░   95.29 % 
+CSV                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 27 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 36 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-PDF                      3 hrs 27 mins       ████████████████░░░░░░░░░   63.21 % 
-StockQuant               1 hr 55 mins        █████████░░░░░░░░░░░░░░░░   35.17 % 
-Result                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+PDF                      3 hrs 27 mins       ███████████████░░░░░░░░░░   61.59 % 
+StockQuant               1 hr 55 mins        █████████░░░░░░░░░░░░░░░░   34.27 % 
+sector                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+Result                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
 
 💻 Operating System: 
-Windows                  5 hrs 27 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 8 mins (2.54%)
+
+✍️ 0 lines written by AI, 3,429 lines written by hand (0.0% AI-written)
+
+🔤 8,198 Input Tokens, 1,966 Output Tokens
+
+💵 $0.39 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 1 AI Prompts
+
+K                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 16 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -114,7 +131,7 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 22/08/2026 18:59:39 UTC
+ Last Updated on 23/08/2026 18:58:34 UTC
 <!--END_SECTION:waka-->
 
 
