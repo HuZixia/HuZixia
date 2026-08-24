@@ -80,29 +80,29 @@ Sunday                   99 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   5 hrs 20 mins       ████████████████████████░   95.29 % 
-CSV                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
-Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+Python                   2 hrs 36 mins       ███████████████████████░░   90.96 % 
+CSV                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 36 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 51 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-PDF                      3 hrs 27 mins       ███████████████░░░░░░░░░░   61.59 % 
-StockQuant               1 hr 55 mins        █████████░░░░░░░░░░░░░░░░   34.27 % 
-sector                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
-Result                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+StockQuant               1 hr 55 mins        █████████████████░░░░░░░░   67.11 % 
+PDF                      42 mins             ██████░░░░░░░░░░░░░░░░░░░   24.77 % 
+sector                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+Result                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
 
 💻 Operating System: 
-Windows                  5 hrs 36 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 mins (2.54%)
+⏱ AI Coding Time: 8 mins (4.97%)
 
-✍️ 0 lines written by AI, 3,429 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 2,290 lines written by hand (0.0% AI-written)
 
 🔤 8,198 Input Tokens, 1,966 Output Tokens
 
@@ -131,7 +131,7 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 23/08/2026 18:58:34 UTC
+ Last Updated on 24/08/2026 19:11:06 UTC
 <!--END_SECTION:waka-->
 
 
