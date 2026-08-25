@@ -80,29 +80,29 @@ Sunday                   99 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   2 hrs 36 mins       ███████████████████████░░   90.96 % 
-CSV                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
-Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+Python                   1 hr 11 mins        ██████████████████████░░░   88.14 % 
+CSV                      7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 51 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 21 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-StockQuant               1 hr 55 mins        █████████████████░░░░░░░░   67.11 % 
-PDF                      42 mins             ██████░░░░░░░░░░░░░░░░░░░   24.77 % 
-sector                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
-Result                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+StockQuant               1 hr 9 mins         ██████████████████████░░░   86.22 % 
+sector                   8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
+Result                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+PDF                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 
 💻 Operating System: 
-Windows                  2 hrs 51 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 21 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 mins (4.97%)
+⏱ AI Coding Time: 8 mins (10.53%)
 
-✍️ 0 lines written by AI, 2,290 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 243 lines written by hand (0.0% AI-written)
 
 🔤 8,198 Input Tokens, 1,966 Output Tokens
 
@@ -131,7 +131,7 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 24/08/2026 19:11:06 UTC
+ Last Updated on 25/08/2026 19:09:56 UTC
 <!--END_SECTION:waka-->
 
 
