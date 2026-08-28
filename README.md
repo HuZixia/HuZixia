@@ -39,7 +39,7 @@
 
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-19%20hrs%2013%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-20%20hrs%2059%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -80,46 +80,50 @@ Sunday                   99 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   3 hrs 43 mins       █████████████████████░░░░   84.81 % 
-JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
-CSV                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
-Text                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
-Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+Python                   5 hrs 32 mins       ██████████████████████░░░   88.37 % 
+JSON                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+CSV                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+Text                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 24 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 55 mins       ████████████████████████░   94.45 % 
+Agent                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+Cursor                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
 
 🐱‍💻 Projects: 
-AI量化交易第1期                2 hrs 30 mins       ██████████████░░░░░░░░░░░   57.01 % 
-StockQuant               1 hr 36 mins        █████████░░░░░░░░░░░░░░░░   36.57 % 
-sector                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
-CASE-贵州茅台的2025年交易策略      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
-Result                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+StockQuant               3 hrs 25 mins       ██████████████░░░░░░░░░░░   54.56 % 
+AI量化交易第1期                2 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   40.72 % 
+sector                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+CASE-贵州茅台的2025年交易策略      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+MyQuant                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 💻 Operating System: 
-Windows                  4 hrs 24 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 54 mins (43.29%)
+⏱ AI Coding Time: 2 hrs 22 mins (37.77%)
 
-✍️ 19 lines written by AI, 335 lines written by hand (5.37% AI-written)
+✍️ 564 lines written by AI, 307 lines written by hand (64.75% AI-written)
 
-🔤 32,493 Input Tokens, 4,061 Output Tokens
+🔤 33,666 Input Tokens, 5,234 Output Tokens
 
-💵 $1.58 Estimated AI Cost This Week
+💵 $1.59 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 30 AI Prompts
+🧠 10 AI Sessions, 35 AI Prompts
 
-K                        19 lines            █████████████████████████   100.00 % 
+Grok                     576 lines           ████████████████████████░   96.81 % 
+K                        19 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 5.37% of written lines came from AI
-📝 Concise Prompter — average 231 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 94.78% of changed lines were hand-edited
+⚖️ Balanced with AI — 64.75% of written lines came from AI
+📝 Concise Prompter — average 348 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 46.15% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -134,7 +138,7 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 26/08/2026 20:59:45 UTC
+ Last Updated on 28/08/2026 02:17:49 UTC
 <!--END_SECTION:waka-->
 
 
