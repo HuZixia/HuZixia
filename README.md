@@ -39,7 +39,7 @@
 
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-20%20hrs%2059%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-21%20hrs%2027%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -80,50 +80,51 @@ Sunday                   99 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   5 hrs 32 mins       ██████████████████████░░░   88.37 % 
-JSON                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
-CSV                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-Text                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
-Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+Python                   9 hrs 40 mins       ██████████████████████░░░   88.98 % 
+Markdown                 25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+JSON                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+CSV                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+Text                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 55 mins       ████████████████████████░   94.45 % 
-Agent                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
-Cursor                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+VS Code                  9 hrs 57 mins       ███████████████████████░░   91.60 % 
+Agent                    43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+Cursor                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
 
 🐱‍💻 Projects: 
-StockQuant               3 hrs 25 mins       ██████████████░░░░░░░░░░░   54.56 % 
-AI量化交易第1期                2 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   40.72 % 
-sector                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-CASE-贵州茅台的2025年交易策略      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
-MyQuant                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+StockQuant               7 hrs 22 mins       █████████████████░░░░░░░░   67.81 % 
+AI量化交易第1期                2 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   23.52 % 
+Board                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+Unknown Project          13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+sector                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 
 💻 Operating System: 
-Windows                  6 hrs 16 mins       █████████████████████████   100.00 % 
+Windows                  10 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 22 mins (37.77%)
+⏱ AI Coding Time: 3 hrs 59 mins (36.79%)
 
-✍️ 564 lines written by AI, 307 lines written by hand (64.75% AI-written)
+✍️ 3,100 lines written by AI, 513 lines written by hand (85.8% AI-written)
 
-🔤 33,666 Input Tokens, 5,234 Output Tokens
+🔤 170,863 Input Tokens, 13,813 Output Tokens
 
-💵 $1.59 Estimated AI Cost This Week
+💵 $5.05 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 35 AI Prompts
+🧠 17 AI Sessions, 49 AI Prompts
 
-Grok                     576 lines           ████████████████████████░   96.81 % 
-K                        19 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+Github-Copilot           2,176 lines         █████████████████░░░░░░░░   69.50 % 
+Grok                     784 lines           ██████░░░░░░░░░░░░░░░░░░░   25.04 % 
+K                        171 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 64.75% of written lines came from AI
-📝 Concise Prompter — average 348 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 46.15% of changed lines were hand-edited
+🤖 AI-Driven — 85.8% of written lines came from AI
+📄 Detailed Prompter — average 807 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 23.47% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -138,7 +139,7 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 28/08/2026 02:17:49 UTC
+ Last Updated on 29/08/2026 01:52:16 UTC
 <!--END_SECTION:waka-->
 
 
