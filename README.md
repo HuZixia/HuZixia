@@ -39,7 +39,7 @@
 
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-30%20hrs%2020%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-31%20hrs%2012%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -80,41 +80,41 @@ Sunday                   101 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   15 hrs 31 mins      ████████████████░░░░░░░░░   64.89 % 
-Markdown                 5 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   23.37 % 
-Other                    1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
-Batchfile                38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
-Text                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+Python                   15 hrs 44 mins      ███████████████░░░░░░░░░░   61.78 % 
+Markdown                 5 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   23.12 % 
+Other                    1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
+Batchfile                1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+Text                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 
 🔥 Editors: 
-VS Code                  22 hrs 24 mins      ███████████████████████░░   93.71 % 
-Agent                    43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
-Codex Vscode             35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
-Cursor                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+VS Code                  23 hrs 59 mins      ████████████████████████░   94.10 % 
+Agent                    43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Codex Vscode             35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+Cursor                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 
 🐱‍💻 Projects: 
-StockQuant               10 hrs 58 mins      ███████████░░░░░░░░░░░░░░   45.89 % 
-Model                    5 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   20.98 % 
-AI量化交易第1期                2 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
-MyQuant                  1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
-chan                     1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+StockQuant               11 hrs 12 mins      ███████████░░░░░░░░░░░░░░   43.95 % 
+Model                    5 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
+AI量化交易第1期                2 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
+MyQuant                  2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+chan                     1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
 
 💻 Operating System: 
-Windows                  23 hrs 55 mins      █████████████████████████   100.00 % 
+Windows                  25 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 59 mins (50.1%)
+⏱ AI Coding Time: 12 hrs 32 mins (49.2%)
 
-✍️ 3,234 lines written by AI, 1,182 lines written by hand (73.23% AI-written)
+✍️ 3,234 lines written by AI, 1,208 lines written by hand (72.81% AI-written)
 
-🔤 185,618,336 Input Tokens, 463,669 Output Tokens
+🔤 206,861,803 Input Tokens, 481,346 Output Tokens
 
-💵 $1110.60 Estimated AI Cost This Week
+💵 $1235.87 Estimated AI Cost This Week
 
-🧠 24 AI Sessions, 100 AI Prompts
+🧠 24 AI Sessions, 101 AI Prompts
 
 Github-Copilot           2,201 lines         █████████████████░░░░░░░░   67.41 % 
 Grok                     784 lines           ██████░░░░░░░░░░░░░░░░░░░   24.01 % 
@@ -123,10 +123,10 @@ GPT                      109 lines           █░░░░░░░░░░�
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 73.23% of written lines came from AI
-📝 Concise Prompter — average 432 characters per prompt
+🤖 AI-Driven — 72.81% of written lines came from AI
+📝 Concise Prompter — average 428 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 43.61% of changed lines were hand-edited
+🚀 High AI Trust — 49.46% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -141,7 +141,7 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 31/08/2026 23:00:11 UTC
+ Last Updated on 01/09/2026 21:15:44 UTC
 <!--END_SECTION:waka-->
 
 
