@@ -80,53 +80,50 @@ Sunday                   101 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   11 hrs 1 min        ██████████████░░░░░░░░░░░   54.60 % 
-Markdown                 5 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   29.14 % 
-Other                    1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Batchfile                1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-Text                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+Python                   7 hrs 17 mins       ███████████░░░░░░░░░░░░░░   44.77 % 
+Markdown                 5 hrs 28 mins       ████████░░░░░░░░░░░░░░░░░   33.63 % 
+Other                    1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
+Batchfile                1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
+Text                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 
 🔥 Editors: 
-VS Code                  19 hrs 1 min        ████████████████████████░   94.27 % 
-Codex Vscode             35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
-Agent                    31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
-Cursor                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+VS Code                  15 hrs 40 mins      ████████████████████████░   96.36 % 
+Codex Vscode             35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
 
 🐱‍💻 Projects: 
-StockQuant               8 hrs 27 mins       ██████████░░░░░░░░░░░░░░░   41.89 % 
-Model                    5 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   25.46 % 
-MyQuant                  2 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
-chan                     1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
-Unknown Project          1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+Model                    5 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   31.58 % 
+StockQuant               4 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   28.18 % 
+MyQuant                  2 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+chan                     1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+Unknown Project          1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
 
 💻 Operating System: 
-Windows                  20 hrs 10 mins      █████████████████████████   100.00 % 
+Windows                  16 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 18 mins (51.1%)
+⏱ AI Coding Time: 8 hrs 40 mins (53.37%)
 
-✍️ 2,670 lines written by AI, 1,105 lines written by hand (70.73% AI-written)
+✍️ 134 lines written by AI, 973 lines written by hand (12.1% AI-written)
 
-🔤 206,836,335 Input Tokens, 478,078 Output Tokens
+🔤 206,699,138 Input Tokens, 469,499 Output Tokens
 
-💵 $1234.67 Estimated AI Cost This Week
+💵 $1231.21 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 67 AI Prompts
+🧠 8 AI Sessions, 53 AI Prompts
 
-Github-Copilot           2,201 lines         █████████████████████░░░░   82.43 % 
-Grok                     208 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
-K                        152 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
-GPT                      109 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+GPT                      109 lines           ████████████████████░░░░░   81.34 % 
+Github-Copilot           25 lines            █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+ZCode                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 70.73% of written lines came from AI
-📝 Concise Prompter — average 464 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 51.98% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 12.1% of written lines came from AI
+📝 Concise Prompter — average 70 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🔍 Hands-On Reviewer — 94.94% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -141,7 +138,7 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 03/09/2026 21:16:20 UTC
+ Last Updated on 04/09/2026 20:58:32 UTC
 <!--END_SECTION:waka-->
 
 
