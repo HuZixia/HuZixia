@@ -39,7 +39,7 @@
 
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-31%20hrs%2012%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-32%20hrs%2023%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -80,52 +80,50 @@ Sunday                   103 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   5 hrs 39 mins       ██████████████░░░░░░░░░░░   56.82 % 
-Markdown                 2 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   26.49 % 
-Batchfile                46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
-Bash                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
-SQL                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+Python                   5 hrs 46 mins       ██████████████████░░░░░░░   72.93 % 
+Batchfile                44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
+Markdown                 30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+Bash                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+SQL                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 21 mins       ███████████████████████░░   93.87 % 
-Codex Vscode             35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
-Agent                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+VS Code                  7 hrs 53 mins       █████████████████████████   99.76 % 
+Agent                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🐱‍💻 Projects: 
-AI量化交易第1期                3 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   34.15 % 
-MyQuant                  2 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   23.44 % 
-StockQuant               1 hr 43 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
-Board                    39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
-zhe                      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+AI量化交易第1期                3 hrs 55 mins       ████████████░░░░░░░░░░░░░   49.60 % 
+StockQuant               1 hr 38 mins        █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
+Board                    36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+MyQuant                  30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+ModelQuant               29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
 
 💻 Operating System: 
-Windows                  9 hrs 57 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 2 mins (20.48%)
+⏱ AI Coding Time: 1 hr 13 mins (15.52%)
 
-✍️ 493 lines written by AI, 676 lines written by hand (42.17% AI-written)
+✍️ 384 lines written by AI, 345 lines written by hand (52.67% AI-written)
 
-🔤 3,348,350 Input Tokens, 19,722 Output Tokens
+🔤 149,883 Input Tokens, 4,356 Output Tokens
 
-💵 $193.07 Estimated AI Cost This Week
+💵 $176.73 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 25 AI Prompts
+🧠 9 AI Sessions, 21 AI Prompts
 
-Github-Copilot           378 lines           ███████████████████░░░░░░   76.67 % 
-GPT                      109 lines           ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
-K                        6 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+Github-Copilot           378 lines           █████████████████████████   98.44 % 
+K                        6 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-ZCode                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 42.17% of written lines came from AI
-📚 Verbose Prompter — average 11,114 characters per prompt
+⚖️ Balanced with AI — 52.67% of written lines came from AI
+📚 Verbose Prompter — average 13,255 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 73.32% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 72.75% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -140,7 +138,7 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 06/09/2026 20:44:22 UTC
+ Last Updated on 07/09/2026 21:44:56 UTC
 <!--END_SECTION:waka-->
 
 
