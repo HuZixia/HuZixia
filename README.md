@@ -39,7 +39,7 @@
 
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-32%20hrs%2026%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-34%20hrs%2018%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -80,50 +80,50 @@ Sunday                   103 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   8 hrs 7 mins        ████████████████████░░░░░   78.32 % 
-Markdown                 39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
-Other                    29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
-Bash                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
-Batchfile                15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+Python                   9 hrs 8 mins        ███████████████████░░░░░░   76.66 % 
+Markdown                 1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+Other                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+Bash                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+Batchfile                17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 20 mins      █████████████████████████   99.82 % 
-Agent                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+VS Code                  11 hrs 52 mins      █████████████████████████   99.62 % 
+Agent                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
 🐱‍💻 Projects: 
-StockQuant               4 hrs 5 mins        ██████████░░░░░░░░░░░░░░░   39.51 % 
-AI量化交易第1期                4 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   39.23 % 
-ModelQuant               56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
-Board                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
-Stock                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+StockQuant               5 hrs 34 mins       ████████████░░░░░░░░░░░░░   46.79 % 
+AI量化交易第1期                4 hrs 3 mins        █████████░░░░░░░░░░░░░░░░   34.09 % 
+ModelQuant               57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+Board                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+Stock                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
 
 💻 Operating System: 
-Windows                  10 hrs 21 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 6 mins (29.96%)
+⏱ AI Coding Time: 3 hrs 50 mins (32.18%)
 
-✍️ 2,277 lines written by AI, 344 lines written by hand (86.88% AI-written)
+✍️ 2,380 lines written by AI, 405 lines written by hand (85.46% AI-written)
 
-🔤 327,600 Input Tokens, 4,995 Output Tokens
+🔤 363,005 Input Tokens, 6,123 Output Tokens
 
-💵 $177.28 Estimated AI Cost This Week
+💵 $177.40 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 38 AI Prompts
+🧠 13 AI Sessions, 48 AI Prompts
 
-Github-Copilot           2,271 lines         █████████████████████████   99.74 % 
-K                        6 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Github-Copilot           2,374 lines         █████████████████████████   99.75 % 
+K                        6 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 86.88% of written lines came from AI
-📚 Verbose Prompter — average 7,471 characters per prompt
+🤖 AI-Driven — 85.46% of written lines came from AI
+📚 Verbose Prompter — average 6,148 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 40.63% of changed lines were hand-edited
+🚀 High AI Trust — 40.49% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -138,7 +138,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/09/2026 21:21:33 UTC
+ Last Updated on 09/09/2026 21:06:58 UTC
 <!--END_SECTION:waka-->
 
 
