@@ -39,11 +39,11 @@
 
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-41%20hrs%2040%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-41%20hrs%2041%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 842.9 kB Used in GitHub's Storage 
+> 📦 843.5 kB Used in GitHub's Storage 
  > 
 > 🏆 1 Contributions in the Year 2026
  > 
@@ -56,21 +56,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                66 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
-🌆 Daytime                157 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-🌃 Evening                539 commits         ████████████░░░░░░░░░░░░░   48.34 % 
-🌙 Night                  353 commits         ████████░░░░░░░░░░░░░░░░░   31.66 % 
+🌞 Morning                67 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+🌆 Daytime                185 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
+🌃 Evening                541 commits         ████████████░░░░░░░░░░░░░   47.21 % 
+🌙 Night                  353 commits         ████████░░░░░░░░░░░░░░░░░   30.80 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
-Tuesday                  127 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
-Wednesday                188 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
-Thursday                 191 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
-Friday                   178 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
-Saturday                 206 commits         █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
-Sunday                   110 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+Monday                   115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
+Tuesday                  127 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+Wednesday                188 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
+Thursday                 191 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Friday                   178 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+Saturday                 237 commits         █████░░░░░░░░░░░░░░░░░░░░   20.68 % 
+Sunday                   110 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
 ```
 
 
@@ -80,52 +80,54 @@ Sunday                   110 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   13 hrs 28 mins      ███████████████████░░░░░░   75.52 % 
-Batchfile                1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
-Bash                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
-Other                    41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
-Git Config               21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+Python                   12 hrs 4 mins       █████████████████░░░░░░░░   69.91 % 
+Batchfile                2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Other                    55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+Bash                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+Markdown                 35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 15 mins      ████████████████████████░   96.76 % 
-Codex Vscode             19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
-Cursor                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
-Agent                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+VS Code                  15 hrs 51 mins      ███████████████████████░░   91.81 % 
+Codex Vscode             1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+Cursor                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+Agent                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+CLI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🐱‍💻 Projects: 
-AIQuant                  7 hrs 19 mins       ██████████░░░░░░░░░░░░░░░   41.10 % 
-AI量化交易第1期                3 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
-Board                    3 hrs               ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
-StockQuant               2 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
-ModelQuant               1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+AIQuant                  7 hrs 19 mins       ███████████░░░░░░░░░░░░░░   42.43 % 
+Board                    4 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   23.64 % 
+AI量化交易第1期                3 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
+StockQuant               1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
+ModelQuant               1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
 
 💻 Operating System: 
-Windows                  17 hrs 49 mins      █████████████████████████   100.00 % 
+Windows                  17 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 20 mins (29.97%)
+⏱ AI Coding Time: 5 hrs 21 mins (31.05%)
 
-✍️ 1,495 lines written by AI, 4,693 lines written by hand (24.16% AI-written)
+✍️ 1,428 lines written by AI, 3,695 lines written by hand (27.87% AI-written)
 
-🔤 367,195 Input Tokens, 18,835 Output Tokens
+🔤 605,962 Input Tokens, 67,498 Output Tokens
 
-💵 $1.94 Estimated AI Cost This Week
+💵 $7.38 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 103 AI Prompts
+🧠 24 AI Sessions, 116 AI Prompts
 
-Github-Copilot           1,405 lines         ███████████████████████░░   93.98 % 
-GPT                      90 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+GPT                      726 lines           █████████████░░░░░░░░░░░░   50.84 % 
+Github-Copilot           702 lines           ████████████░░░░░░░░░░░░░   49.16 % 
+Cline                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 K                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 24.16% of written lines came from AI
-📝 Concise Prompter — average 316 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🔍 Hands-On Reviewer — 91.94% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 27.87% of written lines came from AI
+📄 Detailed Prompter — average 763 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 91.75% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -140,7 +142,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/09/2026 21:10:41 UTC
+ Last Updated on 19/09/2026 20:56:47 UTC
 <!--END_SECTION:waka-->
 
 
