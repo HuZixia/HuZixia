@@ -39,7 +39,7 @@
 
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-48%20hrs%2013%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-53%20hrs%2041%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -80,50 +80,50 @@ Sunday                   114 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   12 hrs 38 mins      ██████████████████░░░░░░░   71.86 % 
-Markdown                 2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
-JavaScript               1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
-Other                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
-Batchfile                27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+Python                   14 hrs 16 mins      ██████████████████░░░░░░░   72.86 % 
+Markdown                 2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+JavaScript               1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
+Other                    36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+Batchfile                32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 14 mins      █████████████████░░░░░░░░   69.52 % 
-Codex Vscode             5 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   30.42 % 
+VS Code                  14 hrs 7 mins       ██████████████████░░░░░░░   72.07 % 
+Codex Vscode             5 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   27.87 % 
 Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🐱‍💻 Projects: 
-Board                    6 hrs 4 mins        █████████░░░░░░░░░░░░░░░░   34.49 % 
-AIQuant                  5 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   31.42 % 
-ModelQuant               3 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
-AI量化交易第1期                2 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
-StockQuant               24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+Board                    9 hrs 4 mins        ████████████░░░░░░░░░░░░░   46.27 % 
+AIQuant                  5 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   25.77 % 
+ModelQuant               3 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+AI量化交易第1期                2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
+StockQuant               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 💻 Operating System: 
-Windows                  17 hrs 36 mins      █████████████████████████   100.00 % 
+Windows                  19 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 50 mins (61.6%)
+⏱ AI Coding Time: 13 hrs 51 mins (70.69%)
 
-✍️ 4,333 lines written by AI, 1,514 lines written by hand (74.11% AI-written)
+✍️ 5,614 lines written by AI, 719 lines written by hand (88.65% AI-written)
 
-🔤 2,938,724 Input Tokens, 505,184 Output Tokens
+🔤 3,665,026 Input Tokens, 641,320 Output Tokens
 
-💵 $180.47 Estimated AI Cost This Week
+💵 $340.38 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 53 AI Prompts
+🧠 23 AI Sessions, 63 AI Prompts
 
-ZCode                    2,549 lines         ███████████████░░░░░░░░░░   58.53 % 
-GPT                      1,806 lines         ██████████░░░░░░░░░░░░░░░   41.47 % 
+ZCode                    3,830 lines         █████████████████░░░░░░░░   67.96 % 
+GPT                      1,806 lines         ████████░░░░░░░░░░░░░░░░░   32.04 % 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 74.11% of written lines came from AI
-📝 Concise Prompter — average 424 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 51.46% of changed lines were hand-edited
+🤖 AI-Driven — 88.65% of written lines came from AI
+📝 Concise Prompter — average 391 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 35.17% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -138,7 +138,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/09/2026 22:32:03 UTC
+ Last Updated on 01/10/2026 22:52:05 UTC
 <!--END_SECTION:waka-->
 
 
