@@ -80,50 +80,50 @@ Sunday                   114 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   11 hrs 55 mins      ██████████████████░░░░░░░   71.57 % 
-Markdown                 2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
-JavaScript               1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
-Other                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
-HTML                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+Python                   6 hrs 44 mins       ████████████████░░░░░░░░░   65.53 % 
+Markdown                 2 hrs               █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
+JavaScript               51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
+Other                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+Batchfile                12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 26 mins      █████████████████░░░░░░░░   68.67 % 
-Codex Vscode             5 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   31.26 % 
-Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+VS Code                  7 hrs 7 mins        █████████████████░░░░░░░░   69.29 % 
+Codex Vscode             3 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   30.60 % 
+Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🐱‍💻 Projects: 
-Board                    8 hrs 47 mins       █████████████░░░░░░░░░░░░   52.74 % 
-AIQuant                  3 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
-ModelQuant               3 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
-AI量化交易第1期                1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
-StockQuant               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Board                    6 hrs 31 mins       ████████████████░░░░░░░░░   63.43 % 
+ModelQuant               3 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   31.55 % 
+AIQuant                  27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+AI量化交易第1期                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+MyQuant                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Windows                  16 hrs 40 mins      █████████████████████████   100.00 % 
+Windows                  10 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 53 mins (77.28%)
+⏱ AI Coding Time: 10 hrs 3 mins (97.74%)
 
-✍️ 5,614 lines written by AI, 527 lines written by hand (91.42% AI-written)
+✍️ 4,711 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 3,577,448 Input Tokens, 637,953 Output Tokens
+🔤 2,376,551 Input Tokens, 481,122 Output Tokens
 
-💵 $340.08 Estimated AI Cost This Week
+💵 $326.08 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 57 AI Prompts
+🧠 13 AI Sessions, 39 AI Prompts
 
-ZCode                    3,830 lines         █████████████████░░░░░░░░   67.96 % 
-GPT                      1,806 lines         ████████░░░░░░░░░░░░░░░░░   32.04 % 
+ZCode                    3,830 lines         ████████████████████░░░░░   81.01 % 
+GPT                      898 lines           █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 91.42% of written lines came from AI
-📝 Concise Prompter — average 423 characters per prompt
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 358 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 15.65% of changed lines were hand-edited
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -138,7 +138,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/10/2026 22:29:20 UTC
+ Last Updated on 03/10/2026 21:41:53 UTC
 <!--END_SECTION:waka-->
 
 
