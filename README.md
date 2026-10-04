@@ -80,32 +80,32 @@ Sunday                   114 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   6 hrs 44 mins       ████████████████░░░░░░░░░   65.53 % 
-Markdown                 2 hrs               █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
-JavaScript               51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
-Other                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+Python                   6 hrs 43 mins       ████████████████░░░░░░░░░   65.49 % 
+Markdown                 2 hrs               █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
+JavaScript               51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
+Other                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
 Batchfile                12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 7 mins        █████████████████░░░░░░░░   69.29 % 
-Codex Vscode             3 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   30.60 % 
+VS Code                  7 hrs 7 mins        █████████████████░░░░░░░░   69.25 % 
+Codex Vscode             3 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   30.64 % 
 Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🐱‍💻 Projects: 
-Board                    6 hrs 31 mins       ████████████████░░░░░░░░░   63.43 % 
-ModelQuant               3 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   31.55 % 
-AIQuant                  27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
-AI量化交易第1期                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+Board                    6 hrs 31 mins       ████████████████░░░░░░░░░   63.51 % 
+ModelQuant               3 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   31.60 % 
+AIQuant                  27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+AI量化交易第1期                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 MyQuant                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Windows                  10 hrs 17 mins      █████████████████████████   100.00 % 
+Windows                  10 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 3 mins (97.74%)
+⏱ AI Coding Time: 10 hrs 3 mins (97.87%)
 
 ✍️ 4,711 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
@@ -138,7 +138,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/10/2026 21:41:53 UTC
+ Last Updated on 04/10/2026 21:51:17 UTC
 <!--END_SECTION:waka-->
 
 
