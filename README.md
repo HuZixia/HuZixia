@@ -80,48 +80,48 @@ Sunday                   114 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   6 hrs 24 mins       ████████████████░░░░░░░░░   64.73 % 
-Markdown                 2 hrs               █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
-JavaScript               51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
-Other                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
-Batchfile                9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Python                   6 hrs 19 mins       █████████████████░░░░░░░░   69.28 % 
+Markdown                 2 hrs               ██████░░░░░░░░░░░░░░░░░░░   22.01 % 
+Other                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+JavaScript               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+Batchfile                9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 7 mins        ██████████████████░░░░░░░   71.94 % 
-Codex Vscode             2 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   27.95 % 
-Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+VS Code                  7 hrs 7 mins        ████████████████████░░░░░   78.04 % 
+Codex Vscode             1 hr 59 mins        █████░░░░░░░░░░░░░░░░░░░░   21.84 % 
+Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🐱‍💻 Projects: 
-Board                    6 hrs 31 mins       ████████████████░░░░░░░░░   65.97 % 
-ModelQuant               2 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   28.95 % 
-AIQuant                  27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
-AI量化交易第1期                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+Board                    5 hrs 45 mins       ████████████████░░░░░░░░░   63.09 % 
+ModelQuant               2 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   31.40 % 
+AIQuant                  27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+AI量化交易第1期                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 MyQuant                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Windows                  9 hrs 53 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 40 mins (97.79%)
+⏱ AI Coding Time: 8 hrs 54 mins (97.6%)
 
-✍️ 4,639 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 4,389 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,244,609 Input Tokens, 458,068 Output Tokens
+🔤 2,053,263 Input Tokens, 440,423 Output Tokens
 
-💵 $324.17 Estimated AI Cost This Week
+💵 $322.78 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 36 AI Prompts
+🧠 11 AI Sessions, 32 AI Prompts
 
-ZCode                    3,830 lines         █████████████████████░░░░   82.31 % 
-GPT                      823 lines           ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
+ZCode                    3,830 lines         ██████████████████████░░░   86.99 % 
+GPT                      573 lines           ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 365 characters per prompt
+📝 Concise Prompter — average 317 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -138,7 +138,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/10/2026 00:16:36 UTC
+ Last Updated on 06/10/2026 22:45:43 UTC
 <!--END_SECTION:waka-->
 
 
