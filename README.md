@@ -39,7 +39,7 @@
 
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-57%20hrs%207%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-59%20hrs%204%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -80,48 +80,44 @@ Sunday                   114 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Batchfile                5 hrs 13 mins       █████████████░░░░░░░░░░░░   51.68 % 
-Python                   3 hrs 26 mins       █████████░░░░░░░░░░░░░░░░   34.02 % 
-Other                    1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
-JavaScript               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Other                    42 mins             █████████░░░░░░░░░░░░░░░░   36.02 % 
+Batchfile                40 mins             █████████░░░░░░░░░░░░░░░░   34.24 % 
+Python                   34 mins             ███████░░░░░░░░░░░░░░░░░░   29.17 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 🔥 Editors: 
-ZCode                    9 hrs 26 mins       ███████████████████████░░   93.50 % 
-Codex Vscode             32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
-VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+ZCode                    1 hr 56 mins        █████████████████████████   99.42 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 🐱‍💻 Projects: 
-Board                    9 hrs 32 mins       ████████████████████████░   94.52 % 
-AIQuant                  32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
-MyQuant                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Board                    1 hr 56 mins        █████████████████████████   99.42 % 
+MyQuant                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 💻 Operating System: 
-Windows                  10 hrs 5 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 57 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs (99.09%)
+⏱ AI Coding Time: 1 hr 56 mins (99.42%)
 
-✍️ 1,404 lines written by AI, 6 lines written by hand (99.57% AI-written)
+✍️ 123 lines written by AI, 6 lines written by hand (95.35% AI-written)
 
-🔤 2,472,504 Input Tokens, 196,821 Output Tokens
+🔤 1,645,798 Input Tokens, 19,560 Output Tokens
 
-💵 $346.05 Estimated AI Cost This Week
+💵 $73.63 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 19 AI Prompts
+🧠 1 AI Sessions, 1 AI Prompts
 
-ZCode                    1,404 lines         █████████████████████████   100.00 % 
+ZCode                    123 lines           █████████████████████████   100.00 % 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.57% of written lines came from AI
-📝 Concise Prompter — average 147 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.43% of changed lines were hand-edited
+🤖 AI-Driven — 95.35% of written lines came from AI
+📝 Concise Prompter — average 9 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 4.65% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -136,7 +132,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/10/2026 23:16:28 UTC
+ Last Updated on 08/10/2026 23:31:55 UTC
 <!--END_SECTION:waka-->
 
 
