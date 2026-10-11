@@ -39,7 +39,7 @@
 
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-59%20hrs%2030%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-66%20hrs%2012%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -80,50 +80,50 @@ Sunday                   114 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   4 hrs 40 mins       ██████████░░░░░░░░░░░░░░░   39.61 % 
-Other                    4 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   34.70 % 
-SQL                      1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
-Batchfile                42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
-Markdown                 32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+Python                   6 hrs 36 mins       ██████████░░░░░░░░░░░░░░░   41.88 % 
+Other                    4 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   27.36 % 
+Markdown                 2 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+SQL                      1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+Batchfile                45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
 
 🔥 Editors: 
-Codex Vscode             5 hrs 45 mins       ████████████░░░░░░░░░░░░░   48.71 % 
-VS Code                  4 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   34.82 % 
-ZCode                    1 hr 56 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
+VS Code                  7 hrs 16 mins       ████████████░░░░░░░░░░░░░   46.14 % 
+Codex Vscode             6 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   41.54 % 
+ZCode                    1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
 
 🐱‍💻 Projects: 
-AIQuant                  5 hrs 36 mins       ████████████░░░░░░░░░░░░░   47.50 % 
-StockQuant               3 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   28.24 % 
-Board                    2 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
-AI量化交易第1期                28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
-MyQuant                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+AIQuant                  5 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   35.55 % 
+StockQuant               3 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   22.60 % 
+Board                    2 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+AI量化交易第1期                2 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
+MyQuant                  1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
 
 💻 Operating System: 
-Windows                  11 hrs 48 mins      █████████████████████████   100.00 % 
+Windows                  15 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 4 mins (76.91%)
+⏱ AI Coding Time: 9 hrs 56 mins (63.02%)
 
-✍️ 4,504 lines written by AI, 209 lines written by hand (95.57% AI-written)
+✍️ 4,536 lines written by AI, 410 lines written by hand (91.71% AI-written)
 
-🔤 2,771,689 Input Tokens, 250,653 Output Tokens
+🔤 2,938,428 Input Tokens, 297,375 Output Tokens
 
-💵 $82.75 Estimated AI Cost This Week
+💵 $84.17 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 88 AI Prompts
+🧠 5 AI Sessions, 94 AI Prompts
 
-GPT                      4,413 lines         ████████████████████████░   97.29 % 
-ZCode                    123 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+GPT                      4,445 lines         ████████████████████████░   97.31 % 
+ZCode                    123 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.57% of written lines came from AI
-📝 Concise Prompter — average 408 characters per prompt
-🔁 Iterative Prompter — average 29 prompts per session
-🚀 High AI Trust — 34.18% of changed lines were hand-edited
+🤖 AI-Driven — 91.71% of written lines came from AI
+📝 Concise Prompter — average 410 characters per prompt
+🔁 Iterative Prompter — average 19 prompts per session
+🚀 High AI Trust — 36.09% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -138,7 +138,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/10/2026 21:57:38 UTC
+ Last Updated on 11/10/2026 22:22:42 UTC
 <!--END_SECTION:waka-->
 
 
