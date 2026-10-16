@@ -39,7 +39,7 @@
 
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-71%20hrs%2048%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-73%20hrs%2026%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -80,49 +80,49 @@ Sunday                   114 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   15 hrs 37 mins      ██████████████░░░░░░░░░░░   57.03 % 
-Other                    4 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
-Markdown                 3 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
-SQL                      1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
-Text                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+Python                   16 hrs 52 mins      ██████████████░░░░░░░░░░░   57.66 % 
+Other                    5 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
+Markdown                 3 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+SQL                      1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+Text                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 53 mins      ███████████████░░░░░░░░░░   58.01 % 
-Codex Vscode             10 hrs 35 mins      ██████████░░░░░░░░░░░░░░░   38.64 % 
-Copilot CLI              55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+VS Code                  17 hrs 21 mins      ███████████████░░░░░░░░░░   59.31 % 
+Codex Vscode             10 hrs 59 mins      █████████░░░░░░░░░░░░░░░░   37.55 % 
+Copilot CLI              55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
 
 🐱‍💻 Projects: 
-AI量化交易第1期                9 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   33.50 % 
-AIQuant                  7 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   27.01 % 
-StockQuant               4 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
-ChanLun                  2 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-Board                    1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+AI量化交易第1期                9 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   31.35 % 
+AIQuant                  8 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   30.46 % 
+StockQuant               5 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   18.61 % 
+ChanLun                  2 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+MyQuant                  1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
 
 💻 Operating System: 
-Windows                  27 hrs 23 mins      █████████████████████████   100.00 % 
+Windows                  29 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 22 mins (52.47%)
+⏱ AI Coding Time: 15 hrs 6 mins (51.61%)
 
-✍️ 6,049 lines written by AI, 922 lines written by hand (86.77% AI-written)
+✍️ 5,965 lines written by AI, 918 lines written by hand (86.66% AI-written)
 
-🔤 3,492,138 Input Tokens, 517,654 Output Tokens
+🔤 3,573,214 Input Tokens, 538,837 Output Tokens
 
-💵 $18.71 Estimated AI Cost This Week
+💵 $19.17 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 139 AI Prompts
+🧠 20 AI Sessions, 160 AI Prompts
 
-GPT                      6,084 lines         █████████████████████████   100.00 % 
+GPT                      6,000 lines         █████████████████████████   100.00 % 
 Code                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 86.77% of written lines came from AI
-📝 Concise Prompter — average 486 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 34.06% of changed lines were hand-edited
+🤖 AI-Driven — 86.66% of written lines came from AI
+📄 Detailed Prompter — average 562 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 34.4% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -137,7 +137,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/10/2026 21:41:02 UTC
+ Last Updated on 16/10/2026 21:36:45 UTC
 <!--END_SECTION:waka-->
 
 
